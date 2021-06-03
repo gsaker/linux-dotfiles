@@ -9,7 +9,7 @@ bash i3-gaps rofi picom-ibhagwan-git polybar-git fontconfig feh
 
 <h2>Recommended packages</h2>
 
-pikaur zsh autotiling alacritty kitty ttf-droid grml-zsh-config lxappearance firefox vim micro xorg-xset xss-lock i3lock-color-git redshift zsh-theme-powerlevel10k-git
+pikaur zsh autotiling gnome-terminal alacritty kitty ttf-droid grml-zsh-config lxappearance firefox vim micro xorg-xset xss-lock i3lock-color-git redshift zsh-theme-powerlevel10k-git
 
 <h2>Other packages, including programs and tools used</h2>
 
