@@ -3,8 +3,8 @@ Based off wiggocd/dotfiles
 Dotfiles For my linux config, Will add screenshots soon
 For now if you want to try out/use copy the respective config files to the right places
 <h1> Screenshots </h1>
-![rofi-menu](/screenshots/rofi-layout.png)
-![desktop-layout](/screenshots/desktop-layout.png)
+![rofi-menu](screenshots/rofi-layout.png)
+![desktop-layout](screenshots/desktop-layout.png)
 <h2>Dependencies (might be a few more I've forgotten!)</h2>
 
 bash i3-gaps rofi picom-ibhagwan-git polybar-git fontconfig feh
