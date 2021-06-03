@@ -1,0 +1,7 @@
+#List Snapshots
+sudo snapper -c config list -t single
+
+#View Snapshot Changes
+#What has changed FROM 1 TO 2
+sudo snapper -c config status 1..2
+
