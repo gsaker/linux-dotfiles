@@ -1,7 +1,6 @@
 <h1># linux-dotfiles </h1>
-Based off wiggocd/dotfiles
-Dotfiles For my linux config, Will add screenshots soon
-For now if you want to try out/use copy the respective config files to the right places
+Dotfiles For my linux config
+If you want to try out, copy the respective config files to the right places
 <h1> Screenshots </h1>
 
 ![Primary](screenshots/rofi-layout.png)
